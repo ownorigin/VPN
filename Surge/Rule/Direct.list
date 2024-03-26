@@ -14,8 +14,13 @@ DOMAIN-SUFFIX,sharon.io
 DOMAIN-SUFFIX,bestvm.cloud
 DOMAIN-SUFFIX,maxmind.com
 DOMAIN-SUFFIX,maxkvm.com
-DOMAIN-SUFFIX,pokemon-home.com
 DOMAIN-SUFFIX,easy2023.com
 DOMAIN-SUFFIX,iplce.net
 DOMAIN-SUFFIX,paofu.io
 DOMAIN-SUFFIX,asusrouter.com
+
+#pokemon sleep
+DOMAIN-KEYWORD,sleep.pokemon
+
+#pokemon home
+DOMAIN-SUFFIX,pokemon-home.com
