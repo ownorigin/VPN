@@ -1,0 +1,11 @@
+#!name=阿里云盘
+#!desc=aliyun
+
+
+[Script]
+aliyun = type=cron, cronexp="0 7,11 * * *", script-path=https://raw.githubusercontent.com/lowking/Scripts/master/ali/aliYunPanCheckIn.js, timeout=60, wake-system=1
+
+aDriveCheckIn = type=http-request, pattern=^https:\/\/(auth|aliyundrive)\.alipan\.com\/v2\/account\/token, script-path=https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/js/Mine/aDriveCheckIn/aDriveCheckIn.js, requires-body=true, max-size=-1, timeout=60
+
+[MITM]
+hostname = %APPEND% auth.alipan.com, auth.aliyundrive.com
