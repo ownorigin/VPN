@@ -9,15 +9,18 @@ DOMAIN-SUFFIX,asusrouter.com
 DOMAIN-SUFFIX,ddns.oray.com
 DOMAIN-SUFFIX,ip.3322.net
 DOMAIN-SUFFIX,4.ipw.cn
-DOMAIN-SUFFIX,justg.com
-DOMAIN-SUFFIX,sharon.io
-DOMAIN-SUFFIX,bestvm.cloud
 DOMAIN-SUFFIX,maxmind.com
-DOMAIN-SUFFIX,maxkvm.com
+
+#机场
+DOMAIN-SUFFIX,paofu.io
 DOMAIN-SUFFIX,easy2023.com
 DOMAIN-SUFFIX,iplce.net
-DOMAIN-SUFFIX,paofu.io
-DOMAIN-SUFFIX,asusrouter.com
+
+#VPS商家
+DOMAIN-SUFFIX,bestvm.cloud
+DOMAIN-SUFFIX,maxkvm.com
+DOMAIN-SUFFIX,sharon.io
+DOMAIN-SUFFIX,justg.com
 
 #pokemon sleep
 DOMAIN-KEYWORD,sleep.pokemon
