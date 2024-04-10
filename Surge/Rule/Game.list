@@ -1,3 +1,6 @@
 #任天堂
 DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,nintendo.com
+
+#和任天堂合作开发pokemon go的公司
+DOMAIN-SUFFIX,nianticlabs.com
