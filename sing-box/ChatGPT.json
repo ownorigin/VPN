@@ -44,7 +44,11 @@
         "poe.com",
         "turn.livekit.cloud"
       ],
-      "domain_keyword": "openai"
+      "domain_keyword": "openai",
+      "ip_cidr": [
+        "24.199.123.28/32",
+        "64.23.132.171/32"
+      ]
     }
   ]
 }
