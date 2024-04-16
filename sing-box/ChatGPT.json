@@ -37,10 +37,14 @@
         "segment.io",
         "sentry.io",
         "stripe.com",
-        ".stripe.com",
-        ".turn.livekit.cloud"
+        "ai.com",
+        "api.statsig.com",
+        "chatgpt.livekit.cloud",
+        "host.livekit.cloud",
+        "poe.com",
+        "turn.livekit.cloud"
       ],
-      "domain_keyword": "openaicom-api"
+      "domain_keyword": "openai"
     }
   ]
 }
