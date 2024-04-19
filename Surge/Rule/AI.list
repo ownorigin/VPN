@@ -80,5 +80,5 @@ DOMAIN, generativelanguage.googleapis.com
 # Claude
 DOMAIN-SUFFIX, anthropic.com
 DOMAIN-SUFFIX, claude.ai
-IP-CIDR, 160.79.104.0/23
-IP-CIDR6, 2607:6bc0::/48
+IP-CIDR, 160.79.104.0/23,no-resolve
+IP-CIDR6, 2607:6bc0::/48,no-resolve
