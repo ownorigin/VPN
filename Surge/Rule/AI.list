@@ -1,3 +1,5 @@
+#本规则来自可莉大佬：https://gitlab.com/lodepuly/vpn_tool/-/blob/master/Tool/Loon/Rule/AI.list?ref_type=heads
+
 # ChatGPT
 DOMAIN, api.statsig.com
 DOMAIN, browser-intake-datadoghq.com
@@ -35,39 +37,45 @@ DOMAIN-KEYWORD, openaicom-api
 
 # Copilot
 DOMAIN, api.githubcopilot.com
+DOMAIN, api.msn.com
 DOMAIN, bat.bing.com
 DOMAIN, browser.events.data.microsoft.com
-DOMAIN, config.edge.skype.com
-DOMAIN, content.lifecycle.office.net
+DOMAIN, cn.bing.com
 DOMAIN, copilot-proxy.githubusercontent.com
 DOMAIN, copilot.microsoft.com
+DOMAIN, dealczars.bing-shopping.microsoft-falcon.io
 DOMAIN, edge.microsoft.com
 DOMAIN, edgeservices.bing.com
 DOMAIN, functional.events.data.microsoft.com
+DOMAIN, gateway.bingviz.microsoftapp.net
+DOMAIN, in.appcenter.ms
+DOMAIN, location.microsoft.com
 DOMAIN, login.live.com
+DOMAIN, login.microsoftonline.com
+DOMAIN, nav-edge.smartscreen.microsoft.com
+DOMAIN, prod.rewardsplatform.microsoft.com
+DOMAIN, sapphire.api.microsoftapp.net
+DOMAIN, sapphire.bingviz.com
+DOMAIN, self.events.data.microsoft.com
 DOMAIN, services.bingapis.com
+DOMAIN, shopping.bing-shopping.microsoft-falcon.io
+DOMAIN, ssl.bing.com
 DOMAIN, storage.live.com
 DOMAIN, strict.bing.com
 DOMAIN, sydney.bing.com
+DOMAIN, th.bing.com
 DOMAIN, www.bing.com
 DOMAIN, www.bingapis.com
-DOMAIN-SUFFIX, bing.com
-
-# Bing AI
-DOMAIN-SUFFIX, bing.com
-DOMAIN-SUFFIX, bing.com.cn
+DOMAIN, www.clarity.ms
+DOMAIN, www2.bing.com
 DOMAIN-SUFFIX, bing.net
-DOMAIN-SUFFIX, bingagencyawards.com
-DOMAIN-SUFFIX, bingapistatistics.com
-DOMAIN-SUFFIX, bingsandbox.com
-DOMAIN-SUFFIX, bingvisualsearch.com
-DOMAIN-SUFFIX, bingworld.com
 
 # Gemini
 DOMAIN, aistudio.google.com
 DOMAIN, bard.google.com
 DOMAIN, gemini.google.com
 DOMAIN, generativelanguage.googleapis.com
+
 
 # Claude
 DOMAIN-SUFFIX, anthropic.com
