@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "aistudio.google.com",
+        "bard.google.com",
+        "gemini.google.com",
+        "generativelanguage.googleapis.com"
+      ]
+    }
+  ]
+}
