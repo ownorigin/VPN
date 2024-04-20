@@ -17,7 +17,7 @@ DOMAIN-SUFFIX,easy2023.com
 DOMAIN-SUFFIX,iplce.net
 
 #VPS商家
-DOMAIN-SUFFIX,bestvm.cloud
+#DOMAIN-SUFFIX,bestvm.cloud
 DOMAIN-SUFFIX,maxkvm.com
 DOMAIN-SUFFIX,sharon.io
 DOMAIN-SUFFIX,justg.com
