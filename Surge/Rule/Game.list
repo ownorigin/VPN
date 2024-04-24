@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,nintendo.com
 
-#和任天堂合作开发pokemon go的公司
+#pokemon go
 DOMAIN-SUFFIX,nianticlabs.com
 DOMAIN,pgorelease-assets.nianticstatic.com
+DOMAIN,me.pokemon.com
