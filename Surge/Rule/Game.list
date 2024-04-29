@@ -1,8 +1,11 @@
 #任天堂
-DOMAIN-SUFFIX,nintendo.net
-DOMAIN-SUFFIX,nintendo.com
+DOMAIN-KEYWORD,nintendo
+#DOMAIN-SUFFIX,nintendo.net
+#DOMAIN-SUFFIX,nintendo.com
 
 #pokemon go
-DOMAIN-SUFFIX,nianticlabs.com
-DOMAIN,pgorelease-assets.nianticstatic.com
+DOMAIN-KEYWORD,nianticlabs
+DOMAIN-KEYWORD,nianticstatic
+#DOMAIN-SUFFIX,nianticlabs.com
+#DOMAIN,pgorelease-assets.nianticstatic.com
 DOMAIN,me.pokemon.com
