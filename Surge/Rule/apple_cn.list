@@ -1,0 +1,7 @@
+#本规则根据skk大佬修改
+#https://ruleset.skk.moe/List/non_ip/apple_cn.conf
+
+DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+DOMAIN-SUFFIX,cn.apple.com
+DOMAIN-SUFFIX,cn.ls.apple.com
+DOMAIN-WILDCARD,*-cn-ssl.ls.apple.com
