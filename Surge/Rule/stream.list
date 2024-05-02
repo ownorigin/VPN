@@ -1,5 +1,6 @@
 #参考skk大佬规则，去除tw流媒体
 #https://ruleset.skk.moe/List/non_ip/stream_tw.conf
+#https://ruleset.skk.moe/List/non_ip/stream.conf
 
 DOMAIN,avodmp4s3ww-a.akamaihd.net
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net
