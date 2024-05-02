@@ -4,4 +4,4 @@
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN-WILDCARD,*cn.apple.com
 DOMAIN-WILDCARD,*cn.ls.apple.com
-DOMAIN-WILDCARD,*-cn-ssl.ls.apple.com
+DOMAIN-WILDCARD,*cn-ssl.ls.apple.com
