@@ -1,4 +1,4 @@
-#本规则来自可莉大佬：https://gitlab.com/lodepuly/vpn_tool/-/blob/master/Tool/Loon/Rule/AI.list?ref_type=heads
+#本规则来自可莉大佬：https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/AI.list
 
 # ChatGPT
 AND, ((DOMAIN-KEYWORD, chatgpt-async-webps-prod-eastus-), (DOMAIN-KEYWORD, .webpubsub.azure.com))
