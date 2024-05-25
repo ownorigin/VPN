@@ -9,3 +9,6 @@ DOMAIN-KEYWORD,nianticstatic
 #DOMAIN-SUFFIX,nianticlabs.com
 #DOMAIN,pgorelease-assets.nianticstatic.com
 DOMAIN,me.pokemon.com
+
+#pokemon home
+DOMAIN-SUFFIX,pokemon-home.com
