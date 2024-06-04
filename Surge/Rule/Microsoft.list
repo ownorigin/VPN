@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,aka.ms
 DOMAIN,az416426.vo.msecnd.net
 DOMAIN,az668014.vo.msecnd.net
 
+DOMAIN-SUFFIX,hotmil.com
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,xbox.com
@@ -19,3 +20,5 @@ DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,outlook
 DOMAIN-KEYWORD,office365
+DOMAIN-KEYWORD,hotmil
+
