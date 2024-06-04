@@ -1,13 +1,11 @@
-#根据blackmatrix7大佬规则修改
-#https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Twitch/Twitch.list
+#twitch
 
-DOMAIN-SUFFIX,ext-twitch.tv
-DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,live-video.net
-DOMAIN-SUFFIX,ttvnw.net
-DOMAIN-SUFFIX,twitch-ext.rootonline.de
-DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,twitchsvc.net
 DOMAIN-KEYWORD,ttvnw
-PROCESS-NAME,tv.twitch.android.app
+DOMAIN-SUFFIX,ext-twitch.tv
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,twitchcdn.net
+DOMAIN-SUFFIX,twitch-ext.rootonline.de
