@@ -3,7 +3,6 @@ DOMAIN-KEYWORD,nintendo
 DOMAIN-KEYWORD,switch
 #DOMAIN-SUFFIX,nintendo.net
 #DOMAIN-SUFFIX,nintendo.com
-#pokemon go
 DOMAIN-KEYWORD,nianticlabs
 DOMAIN-KEYWORD,nianticstatic
 #DOMAIN-SUFFIX,nianticlabs.com
@@ -12,7 +11,6 @@ DOMAIN-KEYWORD,nianticstatic
 DOMAIN-KEYWORD,pokemon
 DOMAIN-KEYWORD,pgorelease
 #DOMAIN,me.pokemon.com
-#pokemon home
 #DOMAIN-SUFFIX,pokemon-home.com
 
 #steam
@@ -28,3 +26,7 @@ DOMAIN-SUFFIX,ubi.com
 
 #Epic
 DOMAIN-KEYWORD,epic
+
+#sony
+DOMAIN-KEYWORD,sony
+DOMAIN-KEYWORD,playstation
