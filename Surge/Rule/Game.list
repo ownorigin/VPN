@@ -1,8 +1,8 @@
 #任天堂
 DOMAIN-KEYWORD,nintendo
+DOMAIN-KEYWORD,switch
 #DOMAIN-SUFFIX,nintendo.net
 #DOMAIN-SUFFIX,nintendo.com
-
 #pokemon go
 DOMAIN-KEYWORD,nianticlabs
 DOMAIN-KEYWORD,nianticstatic
@@ -12,6 +12,19 @@ DOMAIN-KEYWORD,nianticstatic
 DOMAIN-KEYWORD,pokemon
 DOMAIN-KEYWORD,pgorelease
 #DOMAIN,me.pokemon.com
-
 #pokemon home
 #DOMAIN-SUFFIX,pokemon-home.com
+
+#steam
+DOMAIN-KEYWORD,steam
+DOMAIN-SUFFIX,s.team
+
+#xbox
+DOMAIN-KEYWORD,xbox
+
+#ubisoft
+DOMAIN-KEYWORD,ubisoft
+DOMAIN-SUFFIX,ubi.com
+
+#Epic
+DOMAIN-KEYWORD,epic
