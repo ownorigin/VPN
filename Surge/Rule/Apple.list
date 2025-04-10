@@ -2,4 +2,4 @@ DOMAIN,beta.apple.com
 #DOMAIN,testflight.apple.com
 DOMAIN-KEYWORD,testflight
 DOMAIN,apps.apple.com
-DOMAIN,itunes.apple.com
+DOMAIN-SUFFIX,itunes.apple.com
