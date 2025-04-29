@@ -10,3 +10,14 @@ DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX, youtube-nocookie.com
 USER-AGENT,com.google.ios.youtube
 USER-AGENT,YouTube*
+
+#twitch
+DOMAIN-SUFFIX,live-video.net
+DOMAIN-SUFFIX,twitchsvc.net
+DOMAIN-KEYWORD,ttvnw
+DOMAIN-SUFFIX,ext-twitch.tv
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,twitchcdn.net
+DOMAIN-SUFFIX,twitch-ext.rootonline.de
