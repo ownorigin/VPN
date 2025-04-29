@@ -1,11 +1,12 @@
 #youtube
-DOMAIN-KEYWORD,youtube
-DOMAIN-SUFFIX,ggpht.cn
-DOMAIN-SUFFIX,ggpht.com
+DOMAIN,youtubei.googleapis.com
+DOMAIN,youtube.googleapis.com
 DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,gvt1.com
-DOMAIN-SUFFIX,gvt2.com
-DOMAIN-SUFFIX,video.google.com
-DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,ytimg.com
-
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,withyoutube.com
+DOMAIN-SUFFIX,youtubeeducation.com
+DOMAIN-SUFFIX,youtubegaming.com
+DOMAIN-SUFFIX,youtubekids.com
+DOMAIN-SUFFIX, youtube-nocookie.com
+USER-AGENT,com.google.ios.youtube
+USER-AGENT,YouTube*
