@@ -1,4 +1,5 @@
 #youtube
+DOMAIN,i.ytimg.com
 DOMAIN,youtubei.googleapis.com
 DOMAIN,youtube.googleapis.com
 DOMAIN-SUFFIX,googlevideo.com
